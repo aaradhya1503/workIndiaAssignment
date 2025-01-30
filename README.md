@@ -17,14 +17,3 @@ If more than 1 users simultaneously try to book seats, only either one of the us
 2. **Database**: MySQL/PostgreSQL (Compulsory)
 ---
 
-## Features
-
--Implement user registration and login functionality.
--Use JWT-based authentication to ensure secure access.
--Allow users to check available trains between a selected source and destination.
--Enable train seat booking with proper handling of race conditions.
--Provide admin features, including adding new trains and updating seat availability.
--Implement role-based access control for admins and users.
--Ensure robust error handling and input validation.
----
-
